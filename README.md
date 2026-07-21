@@ -25,6 +25,10 @@ Full write-ups in [security-writeups](https://github.com/remaskm/security-writeu
 - **[Metasploitable 2](https://github.com/remaskm/security-writeups/blob/main/metasploitable2-pentest.md)** — full lifecycle test across two independent RCE vectors, with mitigation and an honest retest
 - **[DoS Attacks & Mitigations](https://github.com/remaskm/security-writeups/blob/main/dos-attacks-mitigation.md)** — SYN flood, measured DNS amplification (12.78×), kernel-level mitigation with before/after metrics
 
+##🔐 Cryptography
+
+[Cryptography](https://github.com/remaskm/Cryptography) — from-scratch implementations of AES, DES, RSA (with CRT + Miller-Rabin prime generation), ElGamal, and LFSR stream ciphers, including a Meet-in-the-Middle attack on Triple DES.
+
 ## 🎓 Background
 
 - Huawei ICT Academy — HCIP-Security & HCIA-Security (enterprise network design)
