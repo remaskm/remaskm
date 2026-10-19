@@ -25,9 +25,8 @@ class Remas:
     role      = "Cybersecurity student @ Cairo University"
     focus     = ["Penetration Testing", "Offensive Security", "Security Tooling"]
     studying  = "Hack The Box — CPTS path"
-    toolbox   = ["Nmap", "Burp Suite", "Metasploit", "Wireshark", "Kali Linux"]
-    certs     = ["Huawei HCIA-Security", "Huawei HCIP-Security", "EC-Council CodeRed"]
-    plays_on  = ["Hack The Box", "OverTheWire"]
+    certs     = ["Huawei HCIP-Security", "EC-Council CodeRed", "CCNA", "Cisco Cyberops"]
+    plays_on  = ["Hack The Box"]
     fun_fact  = "I write my own ciphers before I try to break other people's."
 ```
 
