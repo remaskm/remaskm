@@ -46,7 +46,7 @@ class Remas:
 
 **Security & OS**
 
-<img src="https://skillicons.dev/icons?i=windows,linux,kali,wireshark,burpsuite,msfconsole,ffuf,kerbrute,enum4linux-ng &perline=8" alt="security" />
+<img src="https://skillicons.dev/icons?i=windows,linux,kali&perline=8" alt="security" />
 
 ![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
