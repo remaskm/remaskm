@@ -171,9 +171,9 @@ A terminal **Caesar-cipher game**: decrypt intercepted messages across **10 leve
 ## 🎯 Currently
 
 - 🔭 Working through **Hack The Box CPTS**
-- 🌱 Sharpening offensive skills on **HTB** and **OverTheWire**
+- 🎓 Developing my **Graduation Project**
+- 🌱 Sharpening offensive skills on **HTB**
 - 🛠️ Turning lab write-ups into reusable security tooling
-- 💬 Ask me about pentesting, cryptography, or why chroot is not a jail
 
 ---
 
