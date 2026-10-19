@@ -42,7 +42,7 @@ class Remas:
 
 **Frameworks & tools**
 
-<img src="https://skillicons.dev/icons?i=react,vite,flask,arduino,git,github,vscode,idea,visualstudio,clion,eclipse,obsidian,atlassian&perline=8" alt="frameworks" />
+<img src="https://skillicons.dev/icons?i=react,vite,flask,arduino,git,github,vscode,idea,visualstudio,clion,eclipse,obsidian&perline=8" alt="frameworks" />
 
 **Security & OS**
 
