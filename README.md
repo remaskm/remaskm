@@ -42,11 +42,11 @@ class Remas:
 
 **Frameworks & tools**
 
-<img src="https://skillicons.dev/icons?i=react,vite,flask,arduino,git,github,vscode,idea&perline=8" alt="frameworks" />
+<img src="https://skillicons.dev/icons?i=react,vite,flask,arduino,git,github,vscode,idea,visualstudio&perline=8" alt="frameworks" />
 
 **Security & OS**
 
-<img src="https://skillicons.dev/icons?i=windows,linux,kali,ubuntu,parrotsec&perline=8" alt="security" />
+<img src="https://skillicons.dev/icons?i=windows,linux,kali,ubuntu&perline=8" alt="security" />
 
 ![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
